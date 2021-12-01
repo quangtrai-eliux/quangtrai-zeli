@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-### Welcome
+<h3>Welcome</h3>
 
 <!--
 **quangtrai-zeli/quangtrai-zeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
